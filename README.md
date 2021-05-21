@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Niclas-Kedzierski
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nobody
+- 📫 How to reach me 𝕵𝖊𝖋𝖋𝖊𝖗𝖞#3131
