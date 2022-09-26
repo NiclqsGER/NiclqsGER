@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ClassicV.cc<br>🌱 I am just learning to optimize my code<br>💬 Ask me about any shit<br>⚡ Fun fact, I'm lazy as hell
 
 
 ## 🌐 Socials:
