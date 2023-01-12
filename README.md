@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from germany</h3>
+<h3 align="center">A passionate fullstack developer from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niclas-kedzierski&label=Profile%20views&color=0e75b6&style=flat" alt="niclas-kedzierski" /> </p>
 
